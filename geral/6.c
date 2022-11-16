@@ -10,4 +10,6 @@
 
             resultado = sqrt(n);
 
+            printf("%d", resultado);
+
       }
